@@ -1,0 +1,4 @@
+class Vehicle
+attr_reader :wheels, :noise
+
+def in
